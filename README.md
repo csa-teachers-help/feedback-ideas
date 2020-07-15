@@ -15,3 +15,5 @@ Have this allows us to have conversations with students about their commits and 
 Conversation can occur right through GitHub or even email as replaying to an email will update the conversation.
 
 This pull request tab is also where students can see if they are passing or failing autograded tests that are setup through GitHub classroom.  The folder on how to setup some autograded tests will have more details on this concept.
+
+How the interaction between teacher and student with this feedback works can also be seen in this video [Giving Students Feedback through PRs](https://youtu.be/PLqoXgIsArw)
